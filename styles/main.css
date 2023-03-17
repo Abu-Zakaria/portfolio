@@ -181,3 +181,8 @@ li{
         padding-left: 0;
     }
 }
+
+.card--work-history a {
+    color: white;
+    font-weight: bold;
+}
